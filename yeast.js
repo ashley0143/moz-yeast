@@ -1,3 +1,10 @@
+/**
+ * this code is modified version of yeast made by https://github.com/unshiftio/yeast
+ * USING THE MPL2.0 LISANCE
+ *
+ *
+ */
+ 
 const alphabet =
   '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-_'.split(''),
   length = alphabet.length,
